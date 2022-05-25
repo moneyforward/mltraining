@@ -1,0 +1,16 @@
+name: mltraining
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - notebook
+  - pandas=1.3.5
+  - numpy
+  - scikit-learn
+  - pandas-profiling
+  - matplotlib
+  - seaborn
+  - lightgbm
+  - imbalanced-learn
+  - shap
